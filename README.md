@@ -1,6 +1,3 @@
-
-# Project Title
-
 # CP104 – Introduction to Programming (Python)
 ### 📘 Wilfrid Laurier University | Winter 2023
 ### Author: Addin Manasiya
@@ -19,7 +16,3 @@ It covers key programming topics such as:
 - File handling
 - Lists, tuples, and dictionaries
 - Introductory problem-solving and algorithm design
-
-
-
-
