@@ -1,0 +1,87 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Addin Manasiya
+ID:      169044620
+Email:   mana4620@mylaurier.ca
+Version: 2023-02-22
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+
+Please enter a number between 1 and 7: 3
+day_of_the_week(3)  ->  Tuesday
+
+Please enter a number between 1 and 7: 5
+day_of_the_week(5)  ->  Thursday
+
+Please enter a number between 1 and 7: 7
+day_of_the_week(7)  ->  Saturday
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t02
+
+Enter AQI: 6
+level_of_pollution(6) -> Good 
+
+Enter AQI: 200
+level_of_pollution(200) -> Unhealthy 
+
+Enter AQI: 250
+level_of_pollution(250) -> Very Unhealthy 
+-------------------------------------------------------
+
+-------------------------------------------------------
+t03
+
+First Value: 3
+Second Value: 4
+Third Value: 5
+largest_product((3.0, 4.0, 5.0)) -> 20
+
+First Value: 6.7
+Second Value: 4.2
+Third Value: 5.6
+largest_product((6.7, 4.2, 5.6)) -> 37.519999999999996
+
+First Value: 2.3
+Second Value: 4.6
+Third Value: 7.7
+largest_product((2.3, 4.6, 7.7)) -> 35.419999999999995
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t04
+
+First colour: red
+Second colour: blue
+colour_mix(rgb_colour1,rgb_colour2)  ->fuchsia
+
+First colour: blue
+Second colour: green
+colour_mix(rgb_colour1,rgb_colour2)  ->aqua
+
+First colour: red
+Second colour: red
+colour_mix(rgb_colour1,rgb_colour2)  ->red
+-------------------------------------------------------
+
+-------------------------------------------------------
+t05
+
+Number: 3
+yee_ha(3 -> Yee)
+
+Number: 21
+yee_ha(21 -> Yee Ha)
+
+Number: 10
+yee_ha(10 -> Nada)
+-------------------------------------------------------
+
+-------------------------------------------------------
